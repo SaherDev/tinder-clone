@@ -12,4 +12,4 @@
 
 ######    *Enjoy!!*    ######
 
-<img src="/images/Screen Shot 2021-09-18 at 21.33.05" width=600>
+<img src="/images/Screen Shot 2021-09-18 at 21.33.05.png" width=600>
